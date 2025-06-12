@@ -53,4 +53,4 @@ chmod +x netexec
 echo "\n ${greenColour}[+]${endColour}${grayColour}Installing Proxychains... ${endColour}"
 sudo apt install proxychains -y
 
-echo -e "\n ${greenColour}[!]Tails esta listo para ser usado.. {$endColour}"
+echo -e "\n ${greenColour}[!]Tails esta listo para ser usado.. ${endColour}"

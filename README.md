@@ -1,10 +1,15 @@
 ```
 # Instalador de Herramientas de Ciberseguridad para Tails
 
-Este script fue desarrollado como parte de una práctica profesional y forma parte del proceso de documentación para una tesis enfocada en el uso del sistema operativo Tails en contextos de ciberseguridad.
+Este script fue desarrollado como parte de una práctica profesional y forma parte del proceso
+de documentación para una tesis enfocada en el uso del sistema operativo Tails en contextos
+de ciberseguridad.
 
-El objetivo es facilitar la instalación de herramientas utilizadas en pruebas de seguridad y auditorías dentro de un entorno temporal y seguro como lo es Tails (The Amnesic Incognito Live System).
-Este proyecto tiene un enfoque educativo y técnico, orientado a mostrar cómo puede personalizarse Tails para tareas específicas sin comprometer su diseño de privacidad y anonimato.
+El objetivo es facilitar la instalación de herramientas utilizadas en pruebas de seguridad
+y auditorías dentro de un entorno temporal y seguro como lo es Tails
+(The Amnesic Incognito Live System). Este proyecto tiene un enfoque educativo y técnico,
+orientado a mostrar cómo puede personalizarse Tails para tareas específicas sin comprometer
+su diseño de privacidad y anonimato.
 
 ## ⚙️ Características
 
@@ -25,11 +30,14 @@ Este proyecto tiene un enfoque educativo y técnico, orientado a mostrar cómo p
 
 ## ⚠️ Disclaimer
 
-Este proyecto fue creado únicamente con fines educativos, de investigación y para realizar pruebas de seguridad en entornos controlados y supervisados. El uso indebido de las herramientas incluidas puede ser ilegal.
+Este proyecto fue creado únicamente con fines educativos, de investigación y para realizar
+pruebas de seguridad en entornos controlados y supervisados. El uso indebido de las
+herramientas incluidas puede ser ilegal.
 
 El autor no se hace responsable por el uso incorrecto, malintencionado o ilegal de este software.
 
-Antes de utilizar estas herramientas, asegúrate de tener el permiso explícito del propietario del sistema o red que vas a analizar.
+Antes de utilizar estas herramientas, asegúrate de tener el permiso explícito del propietario del
+sistema o red que vas a analizar.
 
 Todo uso debe cumplir con las leyes locales, nacionales e internacionales aplicables.
 
